@@ -28,7 +28,7 @@ Please contact me with an email so that I can enable access for the following pr
 > <img align="right" alt="" src="images/assignmento_.gif" height="200" />
 > Project Description: A Java-based algorithm for genre-based playlist curation.
 
-<br>[![Source Code](https://img.shields.io/badge/Source-212121?logo=github&logoColor=ffffff)](https://github.com/Racquell-G)
+<br>[![Source Code](https://img.shields.io/badge/Source-212121?logo=github&logoColor=ffffff)](https://github.com/Racquell-G/Playlist-Algorithm)
 
 
 
@@ -42,7 +42,7 @@ Please contact me with an email so that I can enable access for the following pr
 ### 👻 The Woods
 > <img align="right" alt="" src="images/assignmento_.gif" height="200" />
 > Project Description: A Choose Your Own Adventure Horror Game with over 27 different paths and endings.
-<br>[![Source Code](https://img.shields.io/badge/Source-212121?logo=github&logoColor=ffffff)](https://github.com/Racquell-G)
+<br>[![Source Code](https://img.shields.io/badge/Source-212121?logo=github&logoColor=ffffff)](https://github.com/Racquell-G/The-Woods)
 
 
 
