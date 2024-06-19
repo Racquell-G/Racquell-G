@@ -22,8 +22,8 @@ My journey in computer science started when I was 10 years old. Ever since I was
 <a href="mailto:racquellgrey@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D44638?style=flat-square&logo=gmail&logoColor=ffffff"></a>
 
-## My Projects 🚀
-Please contact me with an email so that I can enable access for the following projects.
+## My Featured Projects 🚀
+To keep my work protected, all projects are private. Please contact me with an email so that I can enable access to my projects.
 ### 🎼 Playlist Algorithm 
 > <img align="right" alt="" src="images/assignmento_.gif" height="200" />
 > Project Description: A Java-based algorithm for genre-based playlist curation.
