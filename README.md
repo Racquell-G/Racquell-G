@@ -3,13 +3,13 @@
 
 ## Quick Facts 👋
 - 😄 Pronouns: She/Her
-- 🎓 Junior at Virginia Polytechnic Institute and State University
+- 🎓 Senior at Virginia Polytechnic Institute and State University
 - 🌱 My major is Computer Science
 - 🔭 I’m interested in Human-Computer Interaction
 - 💬 Ask me about my journey in CS
 
 ## A Little More About Me 😊
-My name is Racquell Grey, and I am a junior-year Computer Science major pursuing a minor in Human-Computer Interaction at Virginia Tech. I'm an eager-to-learn student looking to obtain an internship in the field of Computer Science for the Summer of 2025. I have a major passion for anything Computer Science-related, from creating websites and software development to networking and cybersecurity. Please feel free to explore this website and learn what I'm passionate about.
+My name is Racquell Grey, and I am a senior-year Computer Science major pursuing a minor in Human-Computer Interaction at Virginia Tech. I'm an eager-to-learn student looking to obtain work in the field of Computer Science. I have a major passion for anything Computer Science-related, from creating websites and software development to networking and cybersecurity. Please feel free to explore this website and learn what I'm passionate about.
 
 ## My Start ⭐
 My journey in computer science started when I was 10 years old. Ever since I was 10, I’ve always had a strong passion for anything computer science related. This got me started at an early age with a lot of experience with software and web development languages such as Java, JavaScript, HTML, CSS, and much more. This plunged me deeper into the world of computer science and expanded my interests in things such as human-computer interaction, cybersecurity, and networking. 
