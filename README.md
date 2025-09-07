@@ -1,5 +1,5 @@
 # 💻 Racquell Grey 📱
-**`Computer Science Student`** **`Software Developer`** **`Web Developer`** **`Network Analyst`**
+**`Computer Science Student`** **`Software Engineer`** **`Web Developer`** **`Network Analyst`**
 
 ## Quick Facts 👋
 - 😄 Pronouns: She/Her
