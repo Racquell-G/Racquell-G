@@ -24,10 +24,16 @@ My journey in computer science started when I was 10 years old. Ever since I was
 
 ## My Featured Projects 🚀
 To keep my work protected, all projects are private. Please contact me with an email so that I can enable access to my projects.
+### 🌃 tessera - Event Management Platform
+> <img align="right" alt="" src="images/assignmento_.gif" height="200" />
+> Project Description: A powerful web application for organizing and managing events of all sizes. 
+<br>[![Source Code](https://img.shields.io/badge/Source-212121?logo=github&logoColor=ffffff)](https://github.com/Racquell-G/tessera)
+
+
+
 ### 🎼 Playlist Algorithm 
 > <img align="right" alt="" src="images/assignmento_.gif" height="200" />
 > Project Description: A Java-based algorithm for genre-based playlist curation.
-
 <br>[![Source Code](https://img.shields.io/badge/Source-212121?logo=github&logoColor=ffffff)](https://github.com/Racquell-G/Playlist-Algorithm)
 
 
@@ -36,13 +42,6 @@ To keep my work protected, all projects are private. Please contact me with an e
 > <img align="right" alt="" src="images/assignmento_.gif" height="200" />
 > Project Description: A Java-based eBay mockup focused more on the backend features.
 <br>[![Source Code](https://img.shields.io/badge/Source-212121?logo=github&logoColor=ffffff)](https://github.com/Racquell-G)
-
-
-
-### 👻 The Woods
-> <img align="right" alt="" src="images/assignmento_.gif" height="200" />
-> Project Description: A Choose Your Own Adventure Horror Game with over 27 different paths and endings.
-<br>[![Source Code](https://img.shields.io/badge/Source-212121?logo=github&logoColor=ffffff)](https://github.com/Racquell-G/The-Woods)
 
 
 
