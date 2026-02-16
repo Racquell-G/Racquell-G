@@ -23,32 +23,31 @@ My journey in computer science started when I was 10 years old. Ever since I was
 <img src="https://img.shields.io/badge/Gmail-D44638?style=flat-square&logo=gmail&logoColor=ffffff"></a>
 
 ## My Featured Projects 🚀
-To keep my work protected, all projects are private. Please contact me via email so that I can enable access to my projects.
-### 🍽️ DineSmart - Dietary Restrictions Search Website
-> <img align="right" alt="" src="images/assignmento_.gif" height="200" />
-> Project Description: A website for finding restaurants that fit your dietary needs. 
-<br>[![Source Code](https://img.shields.io/badge/Source-212121?logo=github&logoColor=ffffff)](https://github.com/DineSmart-org/dinesmart)
+NOTE: To keep my work protected, all projects are private. Please contact me via email so that I can enable access to my projects.
+### 🍽️ DineSmart - Dietary Restrictions Restaurant Finder
+- Finds restaurants that match dietary needs and preferences
+- Focus: UX-first filtering + clear results + location integration
+- Tech: React, MongoDB, Vercel, Next.js, TypeScript
+
+**Repo:** https://github.com/DineSmart-org/dinesmart
 
 
 
 ### 🌃 tessera - Event Management Platform
-> <img align="right" alt="" src="images/assignmento_.gif" height="200" />
-> Project Description: A powerful web application for organizing and managing events of all sizes. 
-<br>[![Source Code](https://img.shields.io/badge/Source-212121?logo=github&logoColor=ffffff)](https://github.com/Racquell-G/tessera)
+- A powerful web application for organizing and managing events of all sizes. 
+- Focus: full-stack features + secure, clean APIs
+- Tech: Node.js, Next.js, TypeScript, TailwindCSS, MongoDB, Vercel
+
+**Repo:** https://github.com/Racquell-G/tessera
 
 
 
 ### 🎼 Playlist Algorithm 
-> <img align="right" alt="" src="images/assignmento_.gif" height="200" />
-> Project Description: A Java-based algorithm for genre-based playlist curation.
-<br>[![Source Code](https://img.shields.io/badge/Source-212121?logo=github&logoColor=ffffff)](https://github.com/Racquell-G/Playlist-Algorithm)
+- Java-based algorithm that generates playlists by genre rules/logic
+- Focus: data structures + algorithm design
+- Tech: Java
 
-
-
-### 🛍️ MockBay
-> <img align="right" alt="" src="images/assignmento_.gif" height="200" />
-> Project Description: A Java-based eBay mockup focused more on the backend features.
-<br>[![Source Code](https://img.shields.io/badge/Source-212121?logo=github&logoColor=ffffff)](https://github.com/Racquell-G)
+**Repo:** https://github.com/Racquell-G/Playlist-Algorithm
 
 
 
